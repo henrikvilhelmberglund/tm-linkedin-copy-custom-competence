@@ -25,6 +25,7 @@
 
 		const competenceNameInput = document.querySelector("input[placeholder='Kompetens (t.ex. Projektledning)']") as HTMLInputElement;
 		if (competenceNameInput && competenceName) {
+      competenceNameInput.focus();
 			competenceNameInput.value = competenceName[1];
 		}
 
