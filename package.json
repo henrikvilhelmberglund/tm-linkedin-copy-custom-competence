@@ -1,5 +1,5 @@
 {
-  "name": "tm-template",
+  "name": "tm-linkedin-copy-custom-competence",
   "version": "0.1.1",
   "devDependencies": {
     "@sec-ant/gm-fetch": "^1.2.1",
@@ -24,8 +24,8 @@
     "predev": "node -e \"if (!require('fs').existsSync('./dist')) { require('child_process').execSync('vite build', { stdio: 'inherit' }); }\"",
     "dev": "bun createRequireFile.ts",
     "style": "vite",
-    "postdev": "msedge $(pwd)/require.user.js",
-    "require": "msedge $(pwd)/require.user.js",
+    "postdev": "brave $(pwd)/require.user.js",
+    "require": "brave $(pwd)/require.user.js",
     "build": "vite build --watch",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json",
