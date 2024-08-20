@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.3](https://github.com/henrikvilhelmberglund/tm-linkedin-copy-custom-competence/compare/v0.1.2...v0.1.3) (2024-08-20)
+
+
+### Features:
+
+* focus input ([67b3406](https://github.com/henrikvilhelmberglund/tm-linkedin-copy-custom-competence/commit/67b3406555effc54410dcd228932da2f702704a1))
+
 ## 0.1.2 (2024-08-20)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "tm-linkedin-copy-custom-competence",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "devDependencies": {
     "@sec-ant/gm-fetch": "^1.2.1",
     "@sveltejs/vite-plugin-svelte": "^4.0.0-next.6",
