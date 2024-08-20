@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 0.1.2 (2024-08-20)
+
+
+### Features:
+
+* implement copy custom competence name ([c9d4177](https://github.com/henrikvilhelmberglund/tm-linkedin-copy-custom-competence/commit/c9d41770a0420c0c3574a4e257b73e24f9c4454c))
+
+
+### Bug Fixes
+
+* use brave, change name in package.json ([4bbe1bb](https://github.com/henrikvilhelmberglund/tm-linkedin-copy-custom-competence/commit/4bbe1bbcb653b1ad79bcb859ea86738962b31d3f))
+* fix match ([bd484f9](https://github.com/henrikvilhelmberglund/tm-linkedin-copy-custom-competence/commit/bd484f93703fa27646b14bcbae36e6fa6a6c5914))
+* increase prettier printwidth ([1ccd6da](https://github.com/henrikvilhelmberglund/tm-linkedin-copy-custom-competence/commit/1ccd6da2a3261c72bc805147674c86a241cbaee1))
+
 ## [0.1.1](https://github.com/henrikvilhelmberglund/tm-template/compare/v0.1.0...v0.1.1) (2024-08-18)
 
 
